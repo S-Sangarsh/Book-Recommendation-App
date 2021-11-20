@@ -197,7 +197,7 @@ if st.checkbox("Book Recommended Based on Book Read  Before"):
         st.write(f'Result of Top Book based on before read book by you is {x}')
         st.dataframe(result,width=1100,height=1100)
 
-st.sidebar.subheader("Book Recommendatio")
+st.sidebar.subheader("Book Recommendation App")
 st.sidebar.info("Beta Phase(some functionality might have some issue)")
     
 
