@@ -1,4 +1,4 @@
-streamlit=>1.2.0
+streamlit>=1.2.0
 string>=3.8
 numpy>=1.9.2
 scipy>=0.15.1
