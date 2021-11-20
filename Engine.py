@@ -196,5 +196,6 @@ if st.checkbox("Book Recommended Based on Book Read  Before"):
         result = BookRecommender(x)
         st.write(f'Result of Top Book based on before read book by you is {x}')
         st.dataframe(result,width=1100,height=1100)
-	
+
+st.sidebar.subheader("NLP App")
 
